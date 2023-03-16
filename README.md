@@ -68,3 +68,16 @@ or from notebook
 ### résultats (peuvent varier À chaque itération)
 
 ![alt text](Capture_model_evaluation.PNG)
+
+### Amélioration possible
+
+* Réglage des hyperparamètres : expérimentez différentes valeurs pour les hyperparamètres du modèle (par exemple, le taux d'apprentissage, la force de régularisation, le nombre de couches cachées) pour trouver la combinaison qui donne les meilleures performances.
+* Ensembling : combinez plusieurs modèles (par exemple, en faisant la moyenne de leurs prédictions ou en utilisant une méthode plus complexe comme l'empilement) pour améliorer les performances globales.
+* Plus de données : Rassemblez plus de données si possible pour améliorer la capacité du modèle à se généraliser à de nouvelles instances.
+* Régularisation : ajoutez des techniques de régularisation telles que l'abandon ou la régularisation L1/L2 pour éviter le surajustement.
+* Apprentissage par transfert : envisagez d'utiliser des modèles pré-entraînés ou des fonctionnalités d'autres domaines pour améliorer les performances du modèle.
+
+### Source
+* Medium
+* Machine Learning Mastery
+* ChatGPT
