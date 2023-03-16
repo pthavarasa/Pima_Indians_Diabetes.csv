@@ -41,7 +41,7 @@ or from notebook
 
 ### Code :
 
-<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/pthavarasa/Pima_Indians_Diabetes.csv/blob/main/Diabetes_detection.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/pthavarasa/Pima_Indians_Diabetes.csv/blob/main/Diabetes_detection.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
