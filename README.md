@@ -31,3 +31,40 @@ antécédents familiaux.
 9. Outcome (résultat) : Une variable binaire qui indique si la patiente a
 développé un diabète de type 2 (1) ou non (0) dans les 5 ans suivant
 les observations.
+
+### Requirements
+```bash
+pip install numpy pandas seaborn matplotlib scikit-learn keras tensorflow
+or from notebook
+!pip install numpy pandas seaborn matplotlib scikit-learn keras tensorflow
+```
+
+### Code :
+
+<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/github/pthavarasa/Pima_Indians_Diabetes.csv/blob/main/Diabetes_detection.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+### Les techniques
+- Imputation
+  - median
+  - median + indicator (meilleur résultat)
+  - KNNImputer
+  - KNNImputer + indicator
+- Mise à l'échelle
+  - MinMaxScaler
+- Train-Test Split
+  - train_test_split (meilleur résultat)
+  - KFold
+- Model
+  - Sequential(1 hidden layer 19 neurons) (meilleur résultat)
+- Métrique
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 score
+  - confusion matrix
+  
+### résultats
+
+
