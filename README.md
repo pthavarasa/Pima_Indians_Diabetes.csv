@@ -65,6 +65,6 @@ or from notebook
   - F1 score
   - confusion matrix
   
-### résultats
+### résultats (peuvent varier À chaque itération)
 
-
+![alt text](Capture_model_evaluation.PNG)
